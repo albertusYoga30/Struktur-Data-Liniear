@@ -1,9 +1,5 @@
 package sorting;
 
-/**
- *
- * @author admin
- */
 public class Larik {
 
     public static void larik(int[] data) {
